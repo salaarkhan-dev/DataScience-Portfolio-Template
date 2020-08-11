@@ -127,6 +127,7 @@
 
 .main-menu .navigation > li > a:after{
   position: absolute;
+  content: "\f107";
   font-family: 'Font Awesome 5 Free';
   font-weight: 700;
   right: -30px;
